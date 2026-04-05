@@ -97,13 +97,13 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Reporting Issues
 
-If you encounter any bugs, have feature requests, or need help with the AUI website, please feel free to open an issue in this repository. 
+If you encounter a bug, have a feature request, or need help with the AUI website, open an issue and include as much detail as you can.
 
-Here is a quick video guide on how to properly post an issue:
+Watch the step-by-step issue guide in the bundled video (download if your browser cannot stream it):
 
-<video width="100%" controls>
-  <source src="assets/issues.mp4" type="video/mp4">
-</video>
+[![Issue guide preview](./assets/issues.gif)](./assets/issues.mp4)
+
+[Download or stream the issue guide](./assets/issues.mp4)
 
 ---
 
