@@ -95,6 +95,17 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
+## Reporting Issues
+
+If you encounter any bugs, have feature requests, or need help with the AUI website, please feel free to open an issue in this repository. 
+
+Here is a quick video guide on how to properly post an issue:
+
+<video width="100%" controls>
+  <source src="./assets/issues.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ---
 
 **Happy coding! 🚀**
