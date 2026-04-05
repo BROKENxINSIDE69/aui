@@ -102,8 +102,7 @@ If you encounter any bugs, have feature requests, or need help with the AUI webs
 Here is a quick video guide on how to properly post an issue:
 
 <video width="100%" controls>
-  <source src="./assets/issues.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="assets/issues.mp4" type="video/mp4">
 </video>
 
 ---
